@@ -5,7 +5,7 @@
 <link rel="alternate" type="application/rss+xml" title="digitalworks.website » Feed" href="https://digitalworks.website/feed/">
 <link rel="alternate" type="application/rss+xml" title="digitalworks.website » Comments Feed" href="https://digitalworks.website/comments/feed/">
 <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/digitalworks.website\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.1"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/digitalworks.website\/wp-includes\/wp-emoji-release.min.js?ver=6.3.1"}};
 /*! This file is auto-generated */
 !function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 </script>
@@ -555,18 +555,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style>	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"><script async="" type="text/javascript" src="js/stat.js"></script><script src="js/wp-emoji-release.min.js" defer=""></script></head>
-<body class="home page-template page-template-elementor_canvas page page-id-2123 sliding-desktop- sliding- wpb-js-composer js-comp-ver-7.0 vc_responsive elementor-default elementor-template-canvas elementor-kit-2121 elementor-page elementor-page-2123">
-	<!--  ClickCease.com tracking-->
-      <script type="text/javascript">var script = document.createElement('script');
-      script.async = true; script.type = 'text/javascript';
-      var target = 'https://www.clickcease.com/monitor/stat.js';
-      script.src = target;var elem = document.head;elem.appendChild(script);
-      </script>
-      <noscript>
-      <a href='https://www.clickcease.com' rel='nofollow'><img src='https://monitor.clickcease.com' alt='ClickCease'/></a>
-      </noscript>
-      <!--  ClickCease.com tracking-->
+			</style>	
 		<div data-elementor-type="wp-page" data-elementor-id="2123" class="elementor elementor-2123" data-elementor-post-type="page">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-501dbc5 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="501dbc5" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
@@ -576,13 +565,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.16.0 - 12-09-2023 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="tel:18334935560">
-							<img decoding="async" width="705" height="40" src="images/header-2.jpg" class="attachment-full size-full wp-image-2129" alt="" srcset="images/header-2.jpg 705w, images/header-2-300x17.jpg 300w, images/header-2-600x34.jpg 600w" sizes="(max-width: 705px) 100vw, 705px">								</a>
+							<img decoding="async" width="705" height="40" src="header-2.jpg" class="attachment-full size-full wp-image-2129" alt="" srcset="header-2.jpg 705w, header-2-300x17.jpg 300w, header-2-600x34.jpg 600w" sizes="(max-width: 705px) 100vw, 705px">								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-13a100f2 elementor-fixed elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="13a100f2" data-element_type="widget" data-settings="{" _position":"fixed","sticky":"top","sticky_on":["desktop","tablet","mobile"],"sticky_offset":0,"sticky_effects_offset":0}"="" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="tel:18334935560">
-							<img decoding="async" fetchpriority="high" width="1698" height="60" src="images/header-desktop-2.jpg" class="attachment-full size-full wp-image-2130" alt="" srcset="images/header-desktop-2.jpg 1698w, images/header-desktop-2-300x11.jpg 300w, images/header-desktop-2-1024x36.jpg 1024w, images/header-desktop-2-600x21.jpg 600w, images/header-desktop-2-1536x54.jpg 1536w" sizes="(max-width: 1698px) 100vw, 1698px">								</a>
+							<img decoding="async" fetchpriority="high" width="1698" height="60" src="header-desktop-2.jpg" class="attachment-full size-full wp-image-2130" alt="" srcset="header-desktop-2.jpg 1698w, header-desktop-2-300x11.jpg 300w, header-desktop-2-1024x36.jpg 1024w, header-desktop-2-600x21.jpg 600w, header-desktop-2-1536x54.jpg 1536w" sizes="(max-width: 1698px) 100vw, 1698px">								</a>
 															</div>
 				</div>
 					</div>
