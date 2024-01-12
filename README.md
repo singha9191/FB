@@ -418,13 +418,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans&amp;display=swap" media="all">
 				<meta name="generator" content="Elementor 3.16.0; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 <!-- Google tag (gtag.js) -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-NX28DRLY3Z"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-217470001-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-NX28DRLY3Z');
+  gtag('config', 'UA-217470001-1');
 </script>
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
 <meta name="generator" content="Powered by Slider Revolution 6.6.15 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
@@ -564,13 +564,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								<div class="elementor-element elementor-element-171cf62e elementor-hidden-desktop elementor-widget elementor-widget-image" data-id="171cf62e" data-element_type="widget" data-settings="{" sticky":"top","sticky_on":["desktop","tablet","mobile"],"sticky_offset":0,"sticky_effects_offset":0}"="" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.16.0 - 12-09-2023 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="tel:18334935560">
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="tel:18337433824">
 							<img decoding="async" width="705" height="40" src="header-2.jpg" class="attachment-full size-full wp-image-2129" alt="" srcset="header-2.jpg 705w, header-2-300x17.jpg 300w, header-2-600x34.jpg 600w" sizes="(max-width: 705px) 100vw, 705px">								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-13a100f2 elementor-fixed elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="13a100f2" data-element_type="widget" data-settings="{" _position":"fixed","sticky":"top","sticky_on":["desktop","tablet","mobile"],"sticky_offset":0,"sticky_effects_offset":0}"="" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" fetchpriority="high" width="1698" height="60" src="header-desktop-2.jpg" class="attachment-full size-full wp-image-2130" alt="" srcset="header-desktop-2.jpg 1698w, header-desktop-2-300x11.jpg 300w, header-desktop-2-1024x36.jpg 1024w, header-desktop-2-600x21.jpg 600w, header-desktop-2-1536x54.jpg 1536w" sizes="(max-width: 1698px) 100vw, 1698px">								</a>
 															</div>
 				</div>
@@ -585,7 +585,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								<div class="elementor-element elementor-element-6761e715 elementor-widget elementor-widget-heading" data-id="6761e715" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.16.0 - 12-09-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default"><a href="tel:18334935560">How can we help you?</a></h2>		</div>
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default"><a href="tel:18337433824">How can we help you?</a></h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7ed0eee9 elementor-widget elementor-widget-shortcode" data-id="7ed0eee9" data-element_type="widget" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
@@ -734,7 +734,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-771fab5f elementor-widget elementor-widget-image" data-id="771fab5f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" width="2157" height="492" src="happy-to-assis-1.jpg" class="attachment-full size-full wp-image-2131" alt="" srcset="happy-to-assis-1.jpg 2157w, happy-to-assis-1-300x68.jpg 300w, happy-to-assis-1-1024x234.jpg 1024w, happy-to-assis-1-600x137.jpg 600w, happy-to-assis-1-1536x350.jpg 1536w, happy-to-assis-1-2048x467.jpg 2048w" sizes="(max-width: 2157px) 100vw, 2157px">								</a>
 															</div>
 				</div>
@@ -744,7 +744,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-3f443608 elementor-widget elementor-widget-image" data-id="3f443608" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="981" height="215" src="happy-to-assis-2-3.jpg" class="attachment-full size-full wp-image-2132" alt="" srcset="happy-to-assis-2-3.jpg 981w, happy-to-assis-2-3-300x66.jpg 300w, happy-to-assis-2-3-600x131.jpg 600w" sizes="(max-width: 981px) 100vw, 981px">								</a>
 															</div>
 				</div>
@@ -758,7 +758,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-118fa417 elementor-widget elementor-widget-image" data-id="118fa417" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="858" height="147" src="logn-troble-2.jpg" class="attachment-full size-full wp-image-2133" alt="" srcset="logn-troble-2.jpg 858w, logn-troble-2-300x51.jpg 300w, logn-troble-2-600x103.jpg 600w" sizes="(max-width: 858px) 100vw, 858px">								</a>
 															</div>
 				</div>
@@ -772,7 +772,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-14fff410 elementor-widget elementor-widget-image" data-id="14fff410" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="276" height="303" src="settings-2.jpg" class="attachment-full size-full wp-image-2134" alt="" srcset="settings-2.jpg 276w, settings-2-273x300.jpg 273w" sizes="(max-width: 276px) 100vw, 276px">								</a>
 															</div>
 				</div>
@@ -782,7 +782,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5d2a4394 elementor-widget elementor-widget-image" data-id="5d2a4394" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="270" height="303" src="logn-pass-2.jpg" class="attachment-full size-full wp-image-2135" alt="" srcset="logn-pass-2.jpg 270w, logn-pass-2-267x300.jpg 267w" sizes="(max-width: 270px) 100vw, 270px">								</a>
 															</div>
 				</div>
@@ -792,7 +792,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-79557835 elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="79557835" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="274" height="303" src="privacy-2.jpg" class="attachment-full size-full wp-image-2136" alt="" srcset="privacy-2.jpg 274w, privacy-2-271x300.jpg 271w" sizes="(max-width: 274px) 100vw, 274px">								</a>
 															</div>
 				</div>
@@ -806,7 +806,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7de6a668 elementor-widget elementor-widget-image" data-id="7de6a668" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="256" height="303" src="repo-2.jpg" class="attachment-full size-full wp-image-2137" alt="" srcset="repo-2.jpg 256w, repo-2-253x300.jpg 253w" sizes="(max-width: 256px) 100vw, 256px">								</a>
 															</div>
 				</div>
@@ -816,7 +816,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6c152ab0 elementor-widget elementor-widget-image" data-id="6c152ab0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="248" height="302" src="privcy-2.jpg" class="attachment-full size-full wp-image-2138" alt="" srcset="privcy-2.jpg 248w, privcy-2-246x300.jpg 246w" sizes="(max-width: 248px) 100vw, 248px">								</a>
 															</div>
 				</div>
@@ -826,7 +826,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4cf4301 elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="4cf4301" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="249" height="298" src="keeping-2.jpg" class="attachment-full size-full wp-image-2139" alt="">								</a>
 															</div>
 				</div>
@@ -840,7 +840,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7474c95 elementor-widget elementor-widget-image" data-id="7474c95" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="249" height="298" src="keeping-2.jpg" class="attachment-full size-full wp-image-2139" alt="">								</a>
 															</div>
 				</div>
@@ -850,7 +850,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-798dd540 elementor-widget elementor-widget-image" data-id="798dd540" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="274" height="303" src="privacy-2.jpg" class="attachment-full size-full wp-image-2136" alt="" srcset="privacy-2.jpg 274w, privacy-2-271x300.jpg 271w" sizes="(max-width: 274px) 100vw, 274px">								</a>
 															</div>
 				</div>
@@ -860,7 +860,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4c93d9de elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="4c93d9de" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="249" height="298" src="keeping-2.jpg" class="attachment-full size-full wp-image-2139" alt="">								</a>
 															</div>
 				</div>
@@ -874,7 +874,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2a3dcad elementor-widget elementor-widget-heading" data-id="2a3dcad" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-xxl"><a href="tel:18334935560">+1(833) 493-5560</a></div>		</div>
+			<div class="elementor-heading-title elementor-size-xxl"><a href="tel:18337433824">+1(833) 743-3824</a></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -886,7 +886,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-67e8f42b elementor-widget elementor-widget-image" data-id="67e8f42b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="841" height="234" src="something-else-2.jpg" class="attachment-full size-full wp-image-2140" alt="" srcset="something-else-2.jpg 841w, something-else-2-300x83.jpg 300w, something-else-2-600x167.jpg 600w" sizes="(max-width: 841px) 100vw, 841px">								</a>
 															</div>
 				</div>
@@ -901,7 +901,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-3a009a63 elementor-widget elementor-widget-image" data-id="3a009a63" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="tel:18334935560">
+																<a href="tel:18337433824">
 							<img decoding="async" loading="lazy" width="1539" height="186" src="subfooter-2.jpg" class="attachment-full size-full wp-image-2141" alt="" srcset="subfooter-2.jpg 1539w, subfooter-2-300x36.jpg 300w, subfooter-2-1024x124.jpg 1024w, subfooter-2-600x73.jpg 600w, subfooter-2-1536x186.jpg 1536w" sizes="(max-width: 1539px) 100vw, 1539px">								</a>
 															</div>
 				</div>
